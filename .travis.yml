@@ -1,8 +1,6 @@
 language: java
 deploy:
   provider: heroku
-  api_key:
-    secure: xxyzl2JU6IXevsGEmUFFKwLp0qiJ1EQJF9WoWX1kwHjT7nXnZ1zp/tQlQ3ltMn8hHIEkWa4yn0DSNOoO8z7UwDIseNiTbohr6wqI3phHdSmU+HJS6Pq7trCxA7xmFll1UZ8uHNbI7cwRgF7qKRp4xy45gbs1l5f/CO2QJ0G/g9ryH7p6tnx3UwOrl1pgeSvS65vuNS/8UKrdqog7Cq85Vy2+ebZzlh+eHRdR1ng2pMEeb0R9xUEzdkHurGG3ZczTgHWyhYwRsA+hunb9p2J/cIUzoeVnOYHWGr2w70l4L+1oDLJf9KWBYXFx7zM86ECGd0Ly3F41+Xs14OGueaH/ZTJZ80aaGBWXxLXWRVHleT8GE1cYK+P8qBf3/fpF7gGLsR5JN817R++8+Tvb/YjEsF3ee/dk9V6CVcVwH3aEzVIOgZV8qUTSjDXfFNngu9usiKqD69NNSRi48rZmdCyfODGkD4lXctACc6VQGIXEU0p9Ho5KQPQ0L3xHLTHaWNSkpUV1MrsHEGZg7J0Frchz+G9/aBw6TUYr6nNO9CVFR2kguER7Xq1oZnfCEXe1XQjUuZGxd7cyHs/LEBf9kJwzLpygzktwMLnRYi6x+JS7MlUl3YvBuYjm4DJH/XFe2kZWB0A+7ZsRWl+SmLQ2Zp4AE8Fqcn62tvd+wt0pyKLraEU=
   app: hello-java
   on:
     repo: pierrickjr/hello-java
